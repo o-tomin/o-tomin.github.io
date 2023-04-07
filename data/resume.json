@@ -1,6 +1,64 @@
 {
-  "name": "Oleksii",
-  "lastname": "Tomin",
-  "email": "oleksii.tomin@gmail.com",
-  "photo": "https://freeimage.host/i/HemIi4S"
+    "name": "Oleksii",
+    "preferred-name": "Alex",
+    "lastname": "Tomin",
+    "photo": "https://freeimage.host/i/HemIi4S",
+    "title": "Android Developer",
+    "contact-info": {
+        "linkedin": "linkedin.com/in/oleksii-tomin",
+        "phone": "+16479162562",
+        "email": "oleksii.tomin@gmail.com"
+    },
+    "overview": "5 years of Native Android application development with Kotlin and Java.",
+    "hard-skills": [
+        "Kotlin", "Java", "Coroutines", "Compose", "GIT", "SQL", "Jira", "JUnit", "Kotlin", "Dagger", "Gradle"
+    ],
+    "design": [
+        "MVVM", "MVI", "MVP", "SOLID", "Clean Architecture", "OOP"
+    ],
+    "experience": [
+        {
+            "id": 0,
+            "title": "Android Software Engineer",
+            "company": "Payfare Inc",
+            "start-time": "2022-04-01"
+        },
+        {
+            "id": 1,
+            "title": "Android Software Developer",
+            "company": "SOTI Inc",
+            "start-time": "2018-05-01",
+            "end-time": "2022-04-01"
+        },
+        {
+            "id": 2,
+            "title": "Software Developer Intern",
+            "company": "Insoft Global",
+            "start-time": "2016-09-01",
+            "end-time": "2028-05-01"
+        },
+        {
+            "id": 3,
+            "title": "Software Developer Intern",
+            "company": "DB Best Technologies",
+            "start-time": "2015-06-01",
+            "end-time": "2016-06-01"
+        }
+    ],
+    "education": [
+        {
+            "school": "Centennial College",
+            "speciality": "Software Engineering",
+            "start-years": 2017,
+            "end-year": 2018,
+            "degree": "Diploma"
+        },
+        {
+            "school": "National Technical University",
+            "speciality": "Computer Science",
+            "start-years": 2010,
+            "end-year": 2015,
+            "degree": "Master's"
+        }
+    ]
 }
